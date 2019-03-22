@@ -1,0 +1,16 @@
+{
+  "name": "node-scraper",
+  "version": "1.0.0",
+  "description": "web scraping",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "HendraPB",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "mongoose": "^5.4.19",
+    "nightmare": "^3.0.1"
+  }
+}
