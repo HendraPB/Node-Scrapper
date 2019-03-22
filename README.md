@@ -1,5 +1,5 @@
 # Node-Scrapper
-My Playground for learning Node.js to do web scraper and insert scraping results in MongoDB.
+My Playground for learning Node.js to do web scraper using Nightmare.js and insert scraping results in MongoDB.
 
 ## Installation
 ``` bash
@@ -21,4 +21,3 @@ npm run start
 
 ## Which has not been implemented
 1. Click on each list to do scraping on each sigle page
-2. Do a handler when all data has inserted the database to stop the server process
